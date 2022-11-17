@@ -80,7 +80,13 @@ main > p {
     line-height: 2em;
 }
 
-
+hr {
+    height: 1px;
+    background-color: var(--cor01);
+}
+p#video {
+    text-align: center;
+}
 
 footer {
     background: #000;

@@ -77,10 +77,13 @@ main > p {
 }
 
 hr {
-    width: 65px;
-    color: var(--cor01);
-    height: 2px;
+    height: 1px;
+    background-color: var(--cor01);
 }
+p#video {
+    text-align: center;
+}
+
 div {
     background: var(--cor01);
     color: var(--cor01);
