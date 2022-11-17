@@ -89,6 +89,11 @@ p#video {
     text-align: center;
 }
 
+p#video > iframe {
+    width: 96%;
+    margin-left: -25px;
+}
+
 footer {
     background: #000;
     text-align: center;

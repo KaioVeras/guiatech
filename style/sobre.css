@@ -84,6 +84,11 @@ p#video {
     text-align: center;
 }
 
+p#video > iframe {
+    width: 96%;
+    margin-left: -25px;
+}
+
 div {
     background: var(--cor01);
     color: var(--cor01);
